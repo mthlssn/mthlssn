@@ -8,4 +8,4 @@ mthlssn
 
 **mthlssn@github**:**~**$ cat /home/mthlssn/documentos/status_languages.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthlssn&&layout=compact&title_color=000&text_color=000&icon_color=000&bg_color=666&hide_border=true&border_radius=1&&langs_count=3&custom_titlestatus_lan.js&card_width=220)](https://github.com/mthlssn/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthlssn&&layout=compact&title_color=000&text_color=000&icon_color=000&bg_color=666&hide_border=true&border_radius=1&&langs_count=3&custom_title=status_lan.js&card_width=220)](https://github.com/mthlssn/)
