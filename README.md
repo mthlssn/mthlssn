@@ -4,4 +4,5 @@ mthlssn
 
 **mthlssn@github**:**~**$ cat /home/mthlssn/documentos/status.js
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mthlssn=anuraghazra&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mthlssn&show_icons=true)
+
