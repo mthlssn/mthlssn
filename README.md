@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="125" width="125" src="https://cdn.discordapp.com/attachments/757316918993748419/892373345566330930/download20210902075432.png">
+<img height="125" width="125" src="https://cdn.discordapp.com/attachments/757316918993748419/892375582497710080/foto.png">
 
 **Thalisson Santos**
 
