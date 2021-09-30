@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/mthlssn">
-<img height="125" width="125" src="https://cdn.discordapp.com/attachments/757316918993748419/892375582497710080/foto.png">
+<img height="125" width="125" src="https://cdn.discordapp.com/attachments/757316918993748419/893118948231507988/rounded-in-photoretrica.png">
 </a>
   
 **Thalisson Santos**
