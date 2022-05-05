@@ -9,7 +9,7 @@
 
 </div>
 
-**mthlssn@github**:**~**$ cat stats.js ; cat stats_lan.js
+**mthlssn@github**:**~**$ cat stats.js ; cat stats_lan.js teste
 
 <div align="center">
 <a href="https://github.com/mthlssn">
