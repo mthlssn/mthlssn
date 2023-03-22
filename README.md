@@ -1,8 +1,8 @@
 <div align="center">
 Seja bem vindo ao meu perfil :)
-</div>
 
-### <-- Esse sou eu!
+.
+</div>
 
 <div align="center">
 Para mais informações acesse meu site.
